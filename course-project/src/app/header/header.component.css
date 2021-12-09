@@ -1,0 +1,50 @@
+nav {
+  background-color: #343a40!important;
+}
+
+.navbar .navbar-collapse, .navbar-default {
+  border: 0px;
+  border-radius: 0px;
+}
+
+nav li a {
+  color: rgba(255,255,255,.5);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white;
+}
+
+nav li a.active {
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+nav li:hover a {
+  color: white;
+}
+
+.header-item {
+  cursor: pointer;
+}
+
+.open a.dropdown-toggle {
+  background-color: #181818;
+  color: #fff;
+}
+
+.dropdown-menu {
+  background-color: #181818;
+}
+
+.manage-item {
+  cursor: pointer;
+}
+
+.manage-item a:hover {
+  background-color: #1e3799;
+}
